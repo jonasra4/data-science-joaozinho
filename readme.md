@@ -3,12 +3,12 @@
 Recentemente, Joãozinho terminou seu relacionamento, e agora está muito mal, na bad, na sofrência. Ele agora está tentando ouvir musicas sobre amor para viver intensamente o seu sofrimento pela pessoa amada. Ajude-o a recuperar os pedaços do seu coração que foram dilacerados por um outro alguém.
 
 
-##Objetivo
+## Objetivo
 Trabalho da 1 unidade da disciplina de Analise de dados I.
 Professor: Ivanovitch Medeiros
 
 
-##Integrantes:
+## Integrantes:
 
 * Jonas Rocha ( jonasra4@gmail.com )
 * Larissa Moura ( larissagilliane@hotmail.com )
